@@ -148,9 +148,8 @@ Contributions are welcome, especially those that address the current resolution 
 
 ## 👤 Author
 
-**[Adarsh Dubey]**
+**[Ayush Singh]**
 
-* **Mail:** [adarshiiitkota@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/adarsh-dubey-313b1a227/]
+* **Mail:** [ayush27641@gmail.com]
 
 ---
